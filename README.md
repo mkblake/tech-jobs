@@ -1,3 +1,6 @@
+## The Dashboard
+[View Dashboard >> Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiM2I3ZmUyNWYtMDg5NS00NDBhLTkwNjAtNGMzNDY5NGRmYjJmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSectionfad1ab497d819c8f2b05)
+
 ## Project Summary
 
 The source data was obtained from the Occupational Employment and Wage Statistics Report, May 2020, published by the U.S. Bureau of Labor Statistics, 
@@ -47,6 +50,8 @@ The following Standard Occupational Classification Codes (SOC Codes) are represe
 17-2061  Computer Hardware Engineers
 
 49-2011  Computer, Automated Teller, and Office Machine Repairers
+
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2I3ZmUyNWYtMDg5NS00NDBhLTkwNjAtNGMzNDY5NGRmYjJmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSectionfad1ab497d819c8f2b05" frameborder="0" allowFullScreen="true"></iframe>
 
 [Full List of SOC Occupations](https://www.bls.gov/oes/current/oes_stru.htm)
 
